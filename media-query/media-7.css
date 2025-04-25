@@ -1,0 +1,15 @@
+@media screen and (min-width:768px){
+img{
+width:400px;
+}
+}
+@media screen and (min-width:481px) and (max-width:768px){
+img{
+width:250px;
+}
+}
+@media screen and (max-width:480px){
+img{
+width:100%;
+}
+}

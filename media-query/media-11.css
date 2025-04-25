@@ -1,0 +1,9 @@
+@media screen and (max-width:480px){
+p{
+font-style:italic;
+}
+}
+
+body{
+	background-color:#AF734A;
+}

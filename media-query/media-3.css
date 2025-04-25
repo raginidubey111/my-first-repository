@@ -1,0 +1,11 @@
+nav{	
+background-color:#D9B9E2 ;
+text-align:center;
+padding:10px;
+}
+@media screen and (max-width:600px){
+	
+nav{
+	display:none;
+}
+}
