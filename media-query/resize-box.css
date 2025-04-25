@@ -1,0 +1,15 @@
+.square{
+width:200px;
+height:200px;
+background-color:pink;
+}
+
+
+@media screen and (max-width:500px){
+	.square{
+		border-radius:50%;
+		width:100px;
+		height:100px;
+	}
+	
+}
