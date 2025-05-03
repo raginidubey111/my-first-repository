@@ -1,0 +1,48 @@
+.hero{
+width:400px;
+border-radius:10px;
+}
+.you{
+	width:30px;
+}
+.face{
+	width:30px;
+}
+.insta{
+	width:30px;
+}
+.tik{
+	width:30px;
+}
+.sec{
+	 max-width:30%;margin:0 auto;
+	 box-shadow:4px 4px 4px 4px lightgray;
+	 padding:20px;
+	 height:520px;
+	 
+}
+.month{
+	position:absolute;
+	background-color:lightblue;
+	left:780px;
+	padding:5px;
+	top:300px;
+	border-radius:9px;
+}
+.sub{
+	color:gray;
+}
+.acti{
+position:absolute;
+	background-color:#32527B;
+	color:white;
+	left:720px;
+	padding:5px 20px;
+	top:470px;
+	border-radius:9px;	
+	
+}
+.del{
+	font-size:20px;
+	color:gray;
+}
